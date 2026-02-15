@@ -8,5 +8,14 @@ Manual books, Datasheet dan Driver : download aja di release
 
 Screenshot on folder images :
 <img src="https://github.com/ipang-dwi/fujitsu-v727/blob/master/images/1.png"/>
+<img src="https://github.com/ipang-dwi/fujitsu-v727/blob/master/images/2.png"/>
+<img src="https://github.com/ipang-dwi/fujitsu-v727/blob/master/images/3.png"/>
+<img src="https://github.com/ipang-dwi/fujitsu-v727/blob/master/images/4.png"/>
+<img src="https://github.com/ipang-dwi/fujitsu-v727/blob/master/images/5.png"/>
+<img src="https://github.com/ipang-dwi/fujitsu-v727/blob/master/images/6.png"/>
+<img src="https://github.com/ipang-dwi/fujitsu-v727/blob/master/images/7.png"/>
+<img src="https://github.com/ipang-dwi/fujitsu-v727/blob/master/images/8.png"/>
+<img src="https://github.com/ipang-dwi/fujitsu-v727/blob/master/images/9.png"/>
+<img src="https://github.com/ipang-dwi/fujitsu-v727/blob/master/images/10.png"/>
 
 feel free to reach me on idz.my.id
