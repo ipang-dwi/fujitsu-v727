@@ -1,4 +1,5 @@
 # fujitsu-v727
+<img src="https://valid.x86.fr/cache/banner/e1fs7q-6.png"></img>
 All about Fujitsu Stylistic V727 by ipang-dwi - firstplato.com - idz.my.id
 
 halo.. klo lo smpe di repo ini, brarti lo user Fujitsu v727 juga.. gw cman nemu ini device imut di fb himputek..
