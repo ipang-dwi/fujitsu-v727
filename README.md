@@ -7,6 +7,6 @@ karena bukan rilis di indo, bakalan sulit dapet user guide, manual docs, termasu
 Manual books, Datasheet dan Driver : download aja di release
 
 Screenshot on folder images :
-<img src='https://github.com/ipang-dwi/fujitsu-v727/blob/master/images/1.png"/>
+<img src="https://github.com/ipang-dwi/fujitsu-v727/blob/master/images/1.png"/>
 
 feel free to reach me on idz.my.id
