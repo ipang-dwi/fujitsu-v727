@@ -5,7 +5,7 @@
 halo.. klo lo smpe di repo ini, brarti lo user Fujitsu v727 juga.. gw cman nemu ini device imut di fb himputek..
 karena bukan rilis di indo, bakalan sulit dapet user guide, manual docs, termasuk drivernya.. bisa sih pakai driver detective tapi yaa ga smua kecover.. di repo ini bakal gw bahas semua, yaa klo gw lagi ga bisa tidur.. gw cenderung suka tidur krn hidup gw cenderung hancur ketika gw bangun.. jangan ditiru yaa.. intinya bakalan gw update klo gw lagi ga crowded dan males..
 
-Manual books, Datasheet dan Driver : download aja di release
+Manual books, Datasheet dan Driver : download aja di release. Lalu install dengan cara restore memakai <a href="https://m.majorgeeks.com/index.php?ct=files&action=download&">Double Driver</a>
 
 Screenshot on folder images :
 <img src="https://github.com/ipang-dwi/fujitsu-v727/blob/master/images/1.png"/>
